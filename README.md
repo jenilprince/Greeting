@@ -5,4 +5,4 @@ This is a simple Python program that inputs user's name and greets the user by w
 2. Type your name when prompted
 3. Receive a personalised greeting
 
-Made by Jenil Prince
+## Made by Jenil Prince
